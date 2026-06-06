@@ -2,8 +2,8 @@
 Contributors: WPDebugLog
 Tags: wpforms, file upload, attachments, forms  
 Requires at least:5.6
-Tested up to: 6.9
-Stable tag: 1.1.0
+Tested up to: 7.0
+Stable tag: 1.1.1
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html 
 

@@ -2,7 +2,7 @@
 /*
 Plugin Name: File Upload For WPForms - Filenzo
 Description: Adds a file upload field to WPForms.
-Version: 1.1.0
+Version: 1.1.1
 Author: WPDebugLog
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -88,7 +88,7 @@ function fileupfo_admin_notice() {
             'file-upload-for-wpforms' 
         ),       
         add_query_arg('fileupfo-ignore-notice', 0, admin_url()),
-            'https://wordpress.org/support/plugin/file-upload-for-wpforms/reviews/?filter=5'
+            'https://wordpress.org/support/plugin/file-upload-for-wpforms/reviews/'
         );
         echo "</p></div>";
     }
