@@ -134,9 +134,9 @@ class FILEUPFO_WPForms_Field_File extends WPForms_Field {
 		$ignore_field_notice = get_option('fileupfo_view_ignore_field_notice');
 		if( empty($ignore_field_notice)){
 			echo '<div id="filenzo-notice" style="display:flex; align-items:center; justify-content:space-between; margin:20px; padding:15px; border-radius:7px; background:#E0E8F0">
-				<p style="margin:0;">Unlock the full power of <strong>Filenzo Pro</strong> — 
-					<a href="https://wpdebuglog.com/get-filenzo-pro/" target="_blank" style="text-decoration:none">
-						<span>Upgrade for free today!</span>
+				<p style="margin:0;">Need more file upload capabilities? Unlock premium features with <strong>Filenzo Pro</strong> -
+					<a href="https://wpdebuglog.com/downloads/file-uploads-to-wpforms/" target="_blank" style="text-decoration:none">
+						<span>Learn More!</span>
 					</a>
 				</p>
 				<a href="' . $this->get_dismiss_admin_url() . '" class="wpforms-dismiss-button" style="display:inline-flex; align-items:center; justify-content:center; width:24px; height:24px; cursor:pointer; padding-left:5px;text-decoration:none"></a>
