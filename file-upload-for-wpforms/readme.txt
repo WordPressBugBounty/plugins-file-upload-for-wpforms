@@ -43,6 +43,20 @@ This plugin adds a custom **File Upload Field** to WPForms, enabling users to:
 3. **Attach Files to Email Notifications** (Optional):  
    - Enable the "Attach Files to Email" option in the form's **Notifications** settings.  
 
+
+## 🤝 Real Human Support
+
+Need help? Contact us anytime.
+
+* 📧 **Email:** [support@wpdebuglog.com](mailto:support@wpdebuglog.com)
+* 💬 **Live Chat:** [wpdebuglog.com](https://wpdebuglog.com)
+
+I can help with customizations, plugin and theme compatibility, WooCommerce, bug fixes, and any WordPress development or support.
+
+## 🎥 Demo
+
+[youtube https://www.youtube.com/watch?v=jh5r9-3Gcvc]
+
 == Features ==  
 
 - Drag-and-drop file upload support.  
